@@ -23,7 +23,6 @@
  */
 
 #include "ScriptMgr.h"
-//#include "ScriptPCH.h"   <- You could use the Precompiled Headers too!
 
 class npc_example : public CreatureScript
 {
